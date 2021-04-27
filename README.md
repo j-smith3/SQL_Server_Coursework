@@ -5,4 +5,4 @@ This repository is just meant to show examples of my work and skills.
 
 The databases used in all assignments can be installed from the scripts found in the Database Creation Scripts folder. 
 
-The SQL Server Coursework folder contains the lab instructions and the scripts submitted as my graded assignment. 
+The SQL Server Coursework folder contains each lab's instructions and the scripts submitted as my graded assignment. 
