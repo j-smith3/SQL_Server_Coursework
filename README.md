@@ -1,5 +1,5 @@
 # SQL_Server_Coursework
-A repository that contains the SQL code for various assignments from a University Course for Microsoft SQL Server.
+A repository that contains my SQL code for various assignments from a University Course for Microsoft SQL Server.
 
 This repository is just meant to show examples of my work and skills. 
 
